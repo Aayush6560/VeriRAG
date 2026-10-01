@@ -1,0 +1,5 @@
+VeriRAG sample document
+
+VeriRAG is a document-grounded question-answering assistant. It retrieves relevant passages from the files provided by the user before generating an answer. When the indexed documents do not contain enough evidence to answer a question, VeriRAG declines instead of guessing.
+
+This sample document is included so a new installation can be indexed immediately. Try asking: "What does VeriRAG do when the documents do not contain enough evidence?"
