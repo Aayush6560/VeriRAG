@@ -64,7 +64,7 @@ docs/                 Source PDFs and text files
 src/agents_src/       CrewAI agents, tasks, and RAG tool
 src/backend_src/      FastAPI application and chat service
 src/frontend_src/     Streamlit application
-src/rag_doc_ingestion/Document ingestion and vector-store creation
+src/rag_doc_ingestion/  Document ingestion and vector-store creation
 ```
 
 Generated secrets and vector-store data are excluded from version control. See `.gitignore` for the complete list.
